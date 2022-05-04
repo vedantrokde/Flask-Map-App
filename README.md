@@ -1,2 +1,2 @@
 # Folium Map App
-Map App using Foliumn in python.
+Map App using Folium in python.
