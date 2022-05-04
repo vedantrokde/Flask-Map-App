@@ -1,2 +1,2 @@
-# Flask - Map App
-A Geological Map App using Foliumn and Flask server.
+# Folium Map App
+Map App using Foliumn in python.
